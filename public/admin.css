@@ -1,0 +1,29 @@
+@font-face {
+    font-family: vz;
+    src: url(font/Vazir.woff);
+}
+body{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    font-family: vz;
+    background-color: beige;
+    direction: rtl;
+}
+.con{
+    background-color: #333;
+    padding: 150px;
+    color: #f1f1f1;
+    margin-top: 60px;
+}
+.con input{
+    padding: 10px 70px;
+    margin-top: 20px;
+}
+.con h1{
+    margin-right: 80px;
+}
+.adbtn{
+    background-color: gold;
+    color: red;
+}

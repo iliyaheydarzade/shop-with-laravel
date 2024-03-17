@@ -1,0 +1,31 @@
+body{
+    direction: rtl;
+}
+form{
+    margin-right: 650px;
+    margin-top: 200px;
+    background-color: #333;
+    width: 300px;
+    color: aliceblue;
+}
+input{
+    margin-top: 20px;
+    padding: 10px 30px;
+    margin-right: 30px;
+}
+a{
+    margin-right: 43px;
+    text-decoration: none;
+    color: orange;
+    margin-top: 10px;
+}
+h1{
+    margin-right: 110px;
+}
+button{
+    padding: 20px  90px;
+    margin-right: 30px;
+    background-color: orangered;
+    color: aliceblue;
+    margin-top: 10px;
+}
